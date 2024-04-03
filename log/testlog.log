@@ -1,0 +1,461 @@
+2024-04-02 10:07:17,016 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 10:07:27,203 - ID_Website -INFO - Language changed
+2024-04-02 10:07:41,340 - ID_Website -INFO - loreal Brand selected
+2024-04-02 10:07:52,247 - ID_Website -INFO - I_agree_to selected
+2024-04-02 10:07:58,188 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 10:08:08,321 - ID_Website -INFO - Language changed
+2024-04-02 10:08:24,029 - ID_Website -INFO - loreal Brand selected
+2024-04-02 10:08:35,068 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 10:08:45,240 - ID_Website -INFO - Language changed
+2024-04-02 10:15:44,315 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 10:15:54,548 - ID_Website -INFO - Language changed
+2024-04-02 10:16:09,022 - ID_Website -INFO - loreal Brand selected
+2024-04-02 10:16:19,878 - ID_Website -INFO - I_agree_to selected
+2024-04-02 10:16:27,482 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 10:16:27,482 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 10:16:32,865 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 10:16:43,029 - ID_Website -INFO - Language changed
+2024-04-02 10:16:57,061 - ID_Website -INFO - loreal Brand selected
+2024-04-02 10:17:08,061 - ID_Website -INFO - product name testloreal
+2024-04-02 10:17:08,136 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 10:17:09,594 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 10:17:16,574 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 10:17:21,955 - ID_Website -INFO - Product quantity increased
+2024-04-02 10:17:22,866 - ID_Website -INFO - WISHLIST UPDATED.
+2024-04-02 10:17:27,864 - ID_Website -INFO - Clicked on next button
+2024-04-02 10:17:33,563 - ID_Website -INFO - Provided otp
+2024-04-02 10:17:34,630 - ID_Website -INFO - name provided
+2024-04-02 10:17:34,814 - ID_Website -INFO - email provided
+2024-04-02 10:17:34,975 - ID_Website -INFO - city provided
+2024-04-02 10:17:35,158 - ID_Website -INFO - pincode provided
+2024-04-02 10:17:35,273 - ID_Website -INFO - language dropdown changed to ID
+2024-04-02 10:17:40,399 - ID_Website -INFO - call checkbox checked
+2024-04-02 10:17:43,490 - ID_Website -INFO - time checked
+2024-04-02 10:17:46,595 - ID_Website -INFO - I_agree_to selected
+2024-04-02 10:17:46,793 - ID_Website -INFO - checkout completed
+2024-04-02 10:18:01,754 - ID_Website -INFO - provided rating
+2024-04-02 10:18:01,845 - ID_Website -INFO - provided comments
+2024-04-02 10:18:05,089 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 10:18:10,160 - ID_Website -INFO - ***************Loreal Product checkout completed successfully******************
+2024-04-02 11:05:26,269 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 11:05:36,544 - ID_Website -INFO - Language changed
+2024-04-02 11:05:51,071 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 11:06:01,262 - ID_Website -INFO - Language changed
+2024-04-02 11:06:16,885 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:44:24,844 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 11:44:35,122 - ID_Website -INFO - Language changed
+2024-04-02 11:44:49,464 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:45:00,775 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:45:38,496 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 11:45:38,496 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 11:45:44,548 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 11:45:54,740 - ID_Website -INFO - Language changed
+2024-04-02 11:46:09,034 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 11:46:19,228 - ID_Website -INFO - Language changed
+2024-04-02 11:46:33,258 - ID_Website -INFO - ********************Started Loreal service checkout********************
+2024-04-02 11:46:43,188 - ID_Website -INFO - **************Started Loreal filters checkout***************
+2024-04-02 11:46:53,408 - ID_Website -INFO - Language changed
+2024-04-02 11:47:07,542 - ID_Website -INFO - *******************Started Loreal search checkout*********************
+2024-04-02 11:47:17,778 - ID_Website -INFO - Language changed
+2024-04-02 11:47:32,005 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:47:40,976 - ID_Website -INFO - product name HAIRSPA ANTI-HAIR FALL SCALP SERUM
+2024-04-02 11:47:41,064 - ID_Website -INFO - product price and size Rp 99,900 | 100ml
+2024-04-02 11:47:44,199 - ID_Website -INFO - Search Product added to wishlist
+2024-04-02 11:47:45,222 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 11:47:52,256 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 11:48:02,473 - ID_Website -INFO - Clicked on next button
+2024-04-02 11:48:13,274 - ID_Website -INFO - Provided otp
+2024-04-02 11:48:14,608 - ID_Website -INFO - name provided
+2024-04-02 11:48:14,837 - ID_Website -INFO - email provided
+2024-04-02 11:48:15,062 - ID_Website -INFO - city provided
+2024-04-02 11:48:15,279 - ID_Website -INFO - pincode provided
+2024-04-02 11:48:15,482 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 11:48:18,647 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:48:21,898 - ID_Website -INFO - checkout completed
+2024-04-02 11:48:36,917 - ID_Website -INFO - provided rating
+2024-04-02 11:48:37,031 - ID_Website -INFO - provided comments
+2024-04-02 11:48:40,344 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 11:48:45,462 - ID_Website -INFO - ***************Loreal Search checkout completed successfully******************
+2024-04-02 11:52:19,148 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 11:52:29,667 - ID_Website -INFO - Language changed
+2024-04-02 11:52:44,074 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:52:55,157 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:53:02,591 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 11:53:02,591 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 11:53:08,230 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 11:53:18,399 - ID_Website -INFO - Language changed
+2024-04-02 11:53:32,547 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:53:43,492 - ID_Website -INFO - product name testloreal
+2024-04-02 11:53:43,562 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 11:53:44,985 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 11:53:51,858 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 11:53:57,151 - ID_Website -INFO - Product quantity increased
+2024-04-02 11:53:58,027 - ID_Website -INFO - WISHLIST UPDATED.
+2024-04-02 11:54:03,034 - ID_Website -INFO - Clicked on next button
+2024-04-02 11:54:08,723 - ID_Website -INFO - Provided otp
+2024-04-02 11:54:09,894 - ID_Website -INFO - name provided
+2024-04-02 11:54:10,163 - ID_Website -INFO - email provided
+2024-04-02 11:54:10,375 - ID_Website -INFO - city provided
+2024-04-02 11:54:10,585 - ID_Website -INFO - pincode provided
+2024-04-02 11:54:10,697 - ID_Website -INFO - language dropdown changed to ID
+2024-04-02 11:54:15,819 - ID_Website -INFO - call checkbox checked
+2024-04-02 11:54:18,910 - ID_Website -INFO - time checked
+2024-04-02 11:54:22,004 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:54:22,200 - ID_Website -INFO - checkout completed
+2024-04-02 11:54:37,066 - ID_Website -INFO - provided rating
+2024-04-02 11:54:37,173 - ID_Website -INFO - provided comments
+2024-04-02 11:54:40,396 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 11:54:45,459 - ID_Website -INFO - ***************Loreal Product checkout completed successfully******************
+2024-04-02 11:54:50,721 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 11:55:00,895 - ID_Website -INFO - Language changed
+2024-04-02 11:55:14,968 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:55:25,829 - ID_Website -INFO - product name testloreal
+2024-04-02 11:55:25,902 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 11:55:27,336 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 11:55:36,251 - ID_Website -INFO - ********************Started Loreal service checkout********************
+2024-04-02 11:55:46,426 - ID_Website -INFO - Language changed
+2024-04-02 11:56:00,850 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:56:00,910 - ID_Website -INFO - Text on blockEXPLORE OUR SERVICES
+2024-04-02 11:56:13,263 - ID_Website -INFO - service name Hair Wash & Blow
+2024-04-02 11:56:13,337 - ID_Website -INFO - Service price Starting from Rp 1,079
+2024-04-02 11:56:13,715 - ID_Website -INFO - service added to wishlist
+2024-04-02 11:56:14,625 - ID_Website -INFO - SERVICE ADDED TO WISHLIST
+2024-04-02 11:56:21,564 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 11:56:31,562 - ID_Website -INFO - Clicked on next button
+2024-04-02 11:56:42,314 - ID_Website -INFO - Provided otp
+2024-04-02 11:56:43,550 - ID_Website -INFO - name provided
+2024-04-02 11:56:43,764 - ID_Website -INFO - email provided
+2024-04-02 11:56:43,956 - ID_Website -INFO - city provided
+2024-04-02 11:56:44,177 - ID_Website -INFO - pincode provided
+2024-04-02 11:56:44,370 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 11:56:47,523 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:56:50,726 - ID_Website -INFO - checkout completed
+2024-04-02 11:57:05,568 - ID_Website -INFO - provided rating
+2024-04-02 11:57:05,662 - ID_Website -INFO - provided comments
+2024-04-02 11:57:08,906 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 11:57:14,011 - ID_Website -INFO - ***************Loreal Service checkout completed successfully******************
+2024-04-02 11:57:19,209 - ID_Website -INFO - **************Started Loreal filters checkout***************
+2024-04-02 11:57:29,385 - ID_Website -INFO - Language changed
+2024-04-02 11:57:43,310 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:57:51,717 - ID_Website -INFO - Family searched successfully
+2024-04-02 11:57:51,786 - ID_Website -INFO - Selected element: Testhaircut
+2024-04-02 11:57:54,305 - ID_Website -INFO - Sub Family searched successfully
+2024-04-02 11:57:54,471 - ID_Website -INFO - Selected sub family element: Density Advanced
+2024-04-02 11:58:03,638 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 11:58:03,688 - ID_Website -INFO - product name DENSITY ADVANCED SHAMPOO
+2024-04-02 11:58:03,746 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 11:58:03,747 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 11:58:05,694 - ID_Website -INFO - Concern searched successfully
+2024-04-02 11:58:05,830 - ID_Website -INFO - Selected concern element: For Dandruff
+2024-04-02 11:58:14,998 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 11:58:15,043 - ID_Website -INFO - product name INSTANT CLEAR SHAMPOO
+2024-04-02 11:58:15,091 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 11:58:15,092 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 11:58:17,094 - ID_Website -INFO - product type searched successfully
+2024-04-02 11:58:17,231 - ID_Website -INFO - Selected product type element: NN Solution
+2024-04-02 11:58:24,569 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 11:58:34,180 - ID_Website -INFO - Clicked on next button
+2024-04-02 11:58:44,731 - ID_Website -INFO - Provided otp
+2024-04-02 11:58:45,988 - ID_Website -INFO - name provided
+2024-04-02 11:58:46,195 - ID_Website -INFO - email provided
+2024-04-02 11:58:46,421 - ID_Website -INFO - city provided
+2024-04-02 11:58:46,594 - ID_Website -INFO - pincode provided
+2024-04-02 11:58:46,728 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 11:58:49,866 - ID_Website -INFO - I_agree_to selected
+2024-04-02 11:58:53,068 - ID_Website -INFO - checkout completed
+2024-04-02 11:59:07,878 - ID_Website -INFO - provided rating
+2024-04-02 11:59:07,976 - ID_Website -INFO - provided comments
+2024-04-02 11:59:11,208 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 11:59:16,289 - ID_Website -INFO - ***************Loreal Filters checkout completed successfully******************
+2024-04-02 11:59:21,442 - ID_Website -INFO - *******************Started Loreal search checkout*********************
+2024-04-02 11:59:31,617 - ID_Website -INFO - Language changed
+2024-04-02 11:59:45,910 - ID_Website -INFO - loreal Brand selected
+2024-04-02 11:59:54,947 - ID_Website -INFO - product name HAIRSPA ANTI-HAIR FALL SCALP SERUM
+2024-04-02 11:59:55,010 - ID_Website -INFO - product price and size Rp 99,900 | 100ml
+2024-04-02 11:59:58,118 - ID_Website -INFO - Search Product added to wishlist
+2024-04-02 11:59:59,134 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:00:06,218 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 12:00:16,441 - ID_Website -INFO - Clicked on next button
+2024-04-02 12:00:49,340 - ID_Website -INFO - Provided otp
+2024-04-02 12:00:50,526 - ID_Website -INFO - name provided
+2024-04-02 12:00:50,707 - ID_Website -INFO - email provided
+2024-04-02 12:00:50,880 - ID_Website -INFO - city provided
+2024-04-02 12:00:51,076 - ID_Website -INFO - pincode provided
+2024-04-02 12:00:51,244 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 12:00:54,396 - ID_Website -INFO - I_agree_to selected
+2024-04-02 12:00:57,581 - ID_Website -INFO - checkout completed
+2024-04-02 12:01:12,508 - ID_Website -INFO - provided rating
+2024-04-02 12:01:12,596 - ID_Website -INFO - provided comments
+2024-04-02 12:01:15,828 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 12:01:20,925 - ID_Website -INFO - ***************Loreal Search checkout completed successfully******************
+2024-04-02 12:06:13,064 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 12:06:23,261 - ID_Website -INFO - Language changed
+2024-04-02 12:06:38,123 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:06:49,752 - ID_Website -INFO - I_agree_to selected
+2024-04-02 12:06:57,626 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 12:06:57,627 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 12:07:03,392 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 12:07:13,589 - ID_Website -INFO - Language changed
+2024-04-02 12:07:27,814 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:07:38,532 - ID_Website -INFO - product name testloreal
+2024-04-02 12:07:38,613 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 12:07:40,029 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:07:47,016 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 12:07:52,377 - ID_Website -INFO - Product quantity increased
+2024-04-02 12:07:53,332 - ID_Website -INFO - WISHLIST UPDATED.
+2024-04-02 12:07:58,228 - ID_Website -INFO - Clicked on next button
+2024-04-02 12:07:59,598 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:07:59,684 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:07:59,684 - ID_Website -INFO - ***************While Loreal Product checkout display ---You have cross the limit.----******************
+2024-04-02 12:08:04,866 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 12:08:15,053 - ID_Website -INFO - Language changed
+2024-04-02 12:08:29,392 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:08:40,345 - ID_Website -INFO - product name testloreal
+2024-04-02 12:08:40,412 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 12:08:41,826 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:08:47,006 - ID_Website -INFO - ********************Started Loreal service checkout********************
+2024-04-02 12:08:57,218 - ID_Website -INFO - Language changed
+2024-04-02 12:09:11,450 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:09:11,510 - ID_Website -INFO - Text on blockEXPLORE OUR SERVICES
+2024-04-02 12:09:23,911 - ID_Website -INFO - service name Hair Wash & Blow
+2024-04-02 12:09:23,982 - ID_Website -INFO - Service price Starting from Rp 1,079
+2024-04-02 12:09:24,384 - ID_Website -INFO - service added to wishlist
+2024-04-02 12:09:25,194 - ID_Website -INFO - SERVICE ADDED TO WISHLIST
+2024-04-02 12:09:32,130 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 12:09:41,745 - ID_Website -INFO - Clicked on next button
+2024-04-02 12:09:43,031 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:09:43,148 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:09:43,148 - ID_Website -INFO - ***************While Loreal Service checkout display ---You have cross the limit.----******************
+2024-04-02 12:09:49,193 - ID_Website -INFO - **************Started Loreal filters checkout***************
+2024-04-02 12:09:59,403 - ID_Website -INFO - Language changed
+2024-04-02 12:10:13,615 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:10:22,214 - ID_Website -INFO - Family searched successfully
+2024-04-02 12:10:22,281 - ID_Website -INFO - Selected element: Testhaircut
+2024-04-02 12:10:24,957 - ID_Website -INFO - Sub Family searched successfully
+2024-04-02 12:10:25,064 - ID_Website -INFO - Selected sub family element: Density Advanced
+2024-04-02 12:10:34,351 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:10:34,418 - ID_Website -INFO - product name DENSITY ADVANCED SHAMPOO
+2024-04-02 12:10:34,483 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 12:10:34,483 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 12:10:36,645 - ID_Website -INFO - Concern searched successfully
+2024-04-02 12:10:36,828 - ID_Website -INFO - Selected concern element: For Dandruff
+2024-04-02 12:10:46,088 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:10:46,155 - ID_Website -INFO - product name INSTANT CLEAR SHAMPOO
+2024-04-02 12:10:46,218 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 12:10:46,218 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 12:10:48,470 - ID_Website -INFO - product type searched successfully
+2024-04-02 12:10:48,604 - ID_Website -INFO - Selected product type element: NN Solution
+2024-04-02 12:10:56,118 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 12:11:06,128 - ID_Website -INFO - Clicked on next button
+2024-04-02 12:11:07,594 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:11:07,671 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:11:07,671 - ID_Website -INFO - ***************While Loreal Filters checkout display ---You have cross the limit.----******************
+2024-04-02 12:11:12,685 - ID_Website -INFO - *******************Started Loreal search checkout*********************
+2024-04-02 12:11:22,877 - ID_Website -INFO - Language changed
+2024-04-02 12:11:37,076 - ID_Website -INFO - loreal Brand selected
+2024-04-02 12:11:45,891 - ID_Website -INFO - product name HAIRSPA ANTI-HAIR FALL SCALP SERUM
+2024-04-02 12:11:45,964 - ID_Website -INFO - product price and size Rp 99,900 | 100ml
+2024-04-02 12:11:49,058 - ID_Website -INFO - Search Product added to wishlist
+2024-04-02 12:11:50,038 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 12:11:57,048 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 12:12:07,079 - ID_Website -INFO - Clicked on next button
+2024-04-02 12:12:08,476 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:12:08,569 - ID_Website -INFO - You have cross the limit.
+2024-04-02 12:12:08,570 - ID_Website -INFO - ***************While Loreal Search checkout display ---You have cross the limit.----******************
+2024-04-02 16:20:47,092 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 16:20:57,266 - ID_Website -INFO - Language changed
+2024-04-02 16:21:11,461 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:21:22,334 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:21:29,979 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 16:21:29,980 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 16:21:36,390 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 16:21:46,566 - ID_Website -INFO - Language changed
+2024-04-02 16:22:01,014 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 16:22:11,240 - ID_Website -INFO - Language changed
+2024-04-02 16:22:25,326 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:22:36,112 - ID_Website -INFO - product name testloreal
+2024-04-02 16:22:36,179 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 16:22:37,684 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:22:43,060 - ID_Website -INFO - ********************Started Loreal service checkout********************
+2024-04-02 16:22:53,223 - ID_Website -INFO - Language changed
+2024-04-02 16:23:08,240 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:23:08,321 - ID_Website -INFO - Text on blockEXPLORE OUR SERVICES
+2024-04-02 16:23:20,738 - ID_Website -INFO - service name Hair Wash & Blow
+2024-04-02 16:23:20,809 - ID_Website -INFO - Service price Starting from Rp 1,079
+2024-04-02 16:23:21,210 - ID_Website -INFO - service added to wishlist
+2024-04-02 16:23:22,117 - ID_Website -INFO - SERVICE ADDED TO WISHLIST
+2024-04-02 16:23:28,958 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:23:38,744 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:23:49,478 - ID_Website -INFO - Provided otp
+2024-04-02 16:23:50,672 - ID_Website -INFO - name provided
+2024-04-02 16:23:50,875 - ID_Website -INFO - email provided
+2024-04-02 16:23:51,031 - ID_Website -INFO - city provided
+2024-04-02 16:23:51,181 - ID_Website -INFO - pincode provided
+2024-04-02 16:23:51,325 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 16:23:54,472 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:23:57,660 - ID_Website -INFO - checkout completed
+2024-04-02 16:24:12,763 - ID_Website -INFO - provided rating
+2024-04-02 16:24:12,836 - ID_Website -INFO - provided comments
+2024-04-02 16:24:16,072 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 16:24:21,173 - ID_Website -INFO - ***************Loreal Service checkout completed successfully******************
+2024-04-02 16:24:25,960 - ID_Website -INFO - **************Started Loreal filters checkout***************
+2024-04-02 16:24:36,091 - ID_Website -INFO - Language changed
+2024-04-02 16:24:50,107 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:24:58,627 - ID_Website -INFO - Family searched successfully
+2024-04-02 16:24:58,691 - ID_Website -INFO - Selected element: Testhaircut
+2024-04-02 16:25:01,181 - ID_Website -INFO - Sub Family searched successfully
+2024-04-02 16:25:01,323 - ID_Website -INFO - Selected sub family element: Density Advanced
+2024-04-02 16:25:10,532 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:25:10,591 - ID_Website -INFO - product name DENSITY ADVANCED SHAMPOO
+2024-04-02 16:25:10,652 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 16:25:10,652 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 16:25:12,631 - ID_Website -INFO - Concern searched successfully
+2024-04-02 16:25:12,785 - ID_Website -INFO - Selected concern element: For Dandruff
+2024-04-02 16:25:22,038 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:25:22,092 - ID_Website -INFO - product name INSTANT CLEAR SHAMPOO
+2024-04-02 16:25:22,144 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 16:25:22,147 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 16:25:24,184 - ID_Website -INFO - product type searched successfully
+2024-04-02 16:25:24,349 - ID_Website -INFO - Selected product type element: NN Solution
+2024-04-02 16:25:32,578 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:25:42,850 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:25:53,551 - ID_Website -INFO - Provided otp
+2024-04-02 16:25:54,777 - ID_Website -INFO - name provided
+2024-04-02 16:25:54,979 - ID_Website -INFO - email provided
+2024-04-02 16:25:55,139 - ID_Website -INFO - city provided
+2024-04-02 16:25:55,296 - ID_Website -INFO - pincode provided
+2024-04-02 16:25:55,412 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 16:25:58,552 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:26:01,768 - ID_Website -INFO - checkout completed
+2024-04-02 16:26:23,184 - ID_Website -INFO - provided rating
+2024-04-02 16:26:23,303 - ID_Website -INFO - provided comments
+2024-04-02 16:26:26,560 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 16:26:31,660 - ID_Website -INFO - ***************Loreal Filters checkout completed successfully******************
+2024-04-02 16:26:36,608 - ID_Website -INFO - *******************Started Loreal search checkout*********************
+2024-04-02 16:26:46,766 - ID_Website -INFO - Language changed
+2024-04-02 16:27:01,031 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:27:09,834 - ID_Website -INFO - product name HAIRSPA ANTI-HAIR FALL SCALP SERUM
+2024-04-02 16:27:09,889 - ID_Website -INFO - product price and size Rp 99,900 | 100ml
+2024-04-02 16:27:12,993 - ID_Website -INFO - Search Product added to wishlist
+2024-04-02 16:27:13,991 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:27:22,023 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:27:31,976 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:27:42,690 - ID_Website -INFO - Provided otp
+2024-04-02 16:27:43,967 - ID_Website -INFO - name provided
+2024-04-02 16:27:44,121 - ID_Website -INFO - email provided
+2024-04-02 16:27:44,268 - ID_Website -INFO - city provided
+2024-04-02 16:27:44,402 - ID_Website -INFO - pincode provided
+2024-04-02 16:27:44,549 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 16:27:47,682 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:27:50,889 - ID_Website -INFO - checkout completed
+2024-04-02 16:28:06,208 - ID_Website -INFO - provided rating
+2024-04-02 16:28:06,367 - ID_Website -INFO - provided comments
+2024-04-02 16:28:09,669 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 16:28:14,787 - ID_Website -INFO - ***************Loreal Search checkout completed successfully******************
+2024-04-02 16:28:32,524 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 16:28:42,682 - ID_Website -INFO - Language changed
+2024-04-02 16:28:57,077 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:29:08,518 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:29:15,792 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 16:29:15,792 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 16:29:23,762 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 16:29:33,926 - ID_Website -INFO - Language changed
+2024-04-02 16:29:48,375 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:30:00,826 - ID_Website -INFO - product name testloreal
+2024-04-02 16:30:00,892 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 16:30:02,908 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:30:09,785 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:30:15,057 - ID_Website -INFO - Product quantity increased
+2024-04-02 16:30:15,950 - ID_Website -INFO - WISHLIST UPDATED.
+2024-04-02 16:30:22,678 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:30:28,410 - ID_Website -INFO - Provided otp
+2024-04-02 16:30:29,583 - ID_Website -INFO - name provided
+2024-04-02 16:30:29,766 - ID_Website -INFO - email provided
+2024-04-02 16:30:29,958 - ID_Website -INFO - city provided
+2024-04-02 16:30:30,146 - ID_Website -INFO - pincode provided
+2024-04-02 16:30:30,239 - ID_Website -INFO - language dropdown changed to ID
+2024-04-02 16:30:35,341 - ID_Website -INFO - call checkbox checked
+2024-04-02 16:30:38,423 - ID_Website -INFO - time checked
+2024-04-02 16:30:41,529 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:30:41,718 - ID_Website -INFO - checkout completed
+2024-04-02 16:30:57,490 - ID_Website -INFO - provided rating
+2024-04-02 16:30:57,617 - ID_Website -INFO - provided comments
+2024-04-02 16:31:00,936 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 16:31:06,053 - ID_Website -INFO - ***************Loreal Product checkout completed successfully******************
+2024-04-02 16:31:19,809 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
+2024-04-02 16:31:29,979 - ID_Website -INFO - Language changed
+2024-04-02 16:31:44,627 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:31:55,792 - ID_Website -INFO - product name testloreal
+2024-04-02 16:31:55,863 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 16:31:57,339 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:32:04,875 - ID_Website -INFO - ********************Started Loreal service checkout********************
+2024-04-02 16:32:15,226 - ID_Website -INFO - Language changed
+2024-04-02 16:32:29,627 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:32:29,686 - ID_Website -INFO - Text on blockEXPLORE OUR SERVICES
+2024-04-02 16:32:42,713 - ID_Website -INFO - service name Hair Wash & Blow
+2024-04-02 16:32:42,771 - ID_Website -INFO - Service price Starting from Rp 1,079
+2024-04-02 16:32:43,199 - ID_Website -INFO - service added to wishlist
+2024-04-02 16:32:44,294 - ID_Website -INFO - SERVICE ADDED TO WISHLIST
+2024-04-02 16:32:51,399 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:33:01,516 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:33:12,194 - ID_Website -INFO - Provided otp
+2024-04-02 16:33:13,783 - ID_Website -INFO - name provided
+2024-04-02 16:33:14,009 - ID_Website -INFO - email provided
+2024-04-02 16:33:14,194 - ID_Website -INFO - city provided
+2024-04-02 16:33:14,348 - ID_Website -INFO - pincode provided
+2024-04-02 16:33:14,488 - ID_Website -INFO - language dropdown changed to EN
+2024-04-02 16:33:17,643 - ID_Website -INFO - I_agree_to selected
+2024-04-02 16:33:20,864 - ID_Website -INFO - checkout completed
+2024-04-02 16:34:07,299 - ID_Website -INFO - provided rating
+2024-04-02 16:34:07,436 - ID_Website -INFO - provided comments
+2024-04-02 16:34:10,660 - ID_Website -INFO - submitted ratings and reviews
+2024-04-02 16:34:15,711 - ID_Website -INFO - ***************Loreal Service checkout completed successfully******************
+2024-04-02 16:34:23,327 - ID_Website -INFO - **************Started Loreal filters checkout***************
+2024-04-02 16:34:33,468 - ID_Website -INFO - Language changed
+2024-04-02 16:34:47,795 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:34:57,470 - ID_Website -INFO - Family searched successfully
+2024-04-02 16:34:57,531 - ID_Website -INFO - Selected element: Testhaircut
+2024-04-02 16:35:00,585 - ID_Website -INFO - Sub Family searched successfully
+2024-04-02 16:35:00,742 - ID_Website -INFO - Selected sub family element: Density Advanced
+2024-04-02 16:35:10,032 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:35:10,088 - ID_Website -INFO - product name DENSITY ADVANCED SHAMPOO
+2024-04-02 16:35:10,144 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 16:35:10,146 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 16:35:15,140 - ID_Website -INFO - Concern searched successfully
+2024-04-02 16:35:15,254 - ID_Website -INFO - Selected concern element: For Dandruff
+2024-04-02 16:35:24,609 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 16:35:24,668 - ID_Website -INFO - product name INSTANT CLEAR SHAMPOO
+2024-04-02 16:35:24,724 - ID_Website -INFO - product price and size Rp 214,936 | 300ml
+2024-04-02 16:35:24,724 - ID_Website -INFO - product_interested Clicked successfully
+2024-04-02 16:35:27,274 - ID_Website -INFO - product type searched successfully
+2024-04-02 16:35:27,561 - ID_Website -INFO - Selected product type element: NN Solution
+2024-04-02 16:35:38,139 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 16:35:49,395 - ID_Website -INFO - Clicked on next button
+2024-04-02 16:35:50,793 - ID_Website -INFO - You have cross the limit.
+2024-04-02 16:35:50,891 - ID_Website -INFO - You have cross the limit.
+2024-04-02 16:35:50,891 - ID_Website -INFO - ***************While Loreal Filters checkout display ---You have cross the limit.----******************
+2024-04-02 16:35:59,627 - ID_Website -INFO - *******************Started Loreal search checkout*********************
+2024-04-02 16:36:09,814 - ID_Website -INFO - Language changed
+2024-04-02 16:36:24,333 - ID_Website -INFO - loreal Brand selected
+2024-04-02 16:36:34,044 - ID_Website -INFO - product name HAIRSPA ANTI-HAIR FALL SCALP SERUM
+2024-04-02 16:36:34,134 - ID_Website -INFO - product price and size Rp 99,900 | 100ml
+2024-04-02 17:10:43,656 - ID_Website -INFO - *********************Started consult an expert******************
+2024-04-02 17:10:53,820 - ID_Website -INFO - Language changed
+2024-04-02 17:11:07,891 - ID_Website -INFO - loreal Brand selected
+2024-04-02 17:11:18,641 - ID_Website -INFO - I_agree_to selected
+2024-04-02 17:11:26,519 - ID_Website -INFO - Thank You for contacting us. We'll get back to you soon.
+2024-04-02 17:11:26,519 - ID_Website -INFO - ***************Consult an expert failed******************
+2024-04-02 17:11:33,466 - ID_Website -INFO - **********************Started Loreal Product checkout***********************
+2024-04-02 17:11:43,611 - ID_Website -INFO - Language changed
+2024-04-02 17:11:57,884 - ID_Website -INFO - loreal Brand selected
+2024-04-02 17:12:09,610 - ID_Website -INFO - product name testloreal
+2024-04-02 17:12:09,711 - ID_Website -INFO - product price and size Rp 1,000 | 100ml
+2024-04-02 17:12:11,222 - ID_Website -INFO - PRODUCT ADDED TO WISHLIST
+2024-04-02 17:12:18,435 - ID_Website -INFO - Clicked on home wishlist
+2024-04-02 17:12:23,979 - ID_Website -INFO - Product quantity increased
+2024-04-02 17:12:25,063 - ID_Website -INFO - WISHLIST UPDATED.
+2024-04-02 17:12:30,068 - ID_Website -INFO - Clicked on next button
+2024-04-02 17:12:31,509 - ID_Website -INFO - You have cross the limit.
+2024-04-02 17:12:31,606 - ID_Website -INFO - You have cross the limit.
+2024-04-02 17:12:31,606 - ID_Website -INFO - ***************While Loreal Product checkout display ---You have cross the limit.----******************
+2024-04-02 17:12:40,791 - ID_Website -INFO - **********************Started Loreal Product Service checkout***********************
